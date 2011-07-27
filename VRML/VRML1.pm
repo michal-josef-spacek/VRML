@@ -712,7 +712,7 @@ __END__
 
 =head1 NAME
 
-VRML::VRML1.pm - VRML methods with the VRML 1.0 standard
+VRML::VRML1 - VRML methods with the VRML 1.0 standard
 
 =head1 SYNOPSIS
 

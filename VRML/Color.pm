@@ -229,7 +229,7 @@ __END__
 
 =head1 NAME
 
-Color.pm - color functions and X11 color names
+Color - color functions and X11 color names
 
 =head1 SYNOPSIS
 

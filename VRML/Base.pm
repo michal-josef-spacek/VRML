@@ -342,7 +342,7 @@ __END__
 
 =head1 NAME
 
-VRML::Base.pm - common basic methods for VRML in/output
+VRML::Base - common basic methods for VRML in/output
 
 =head1 SYNOPSIS
 

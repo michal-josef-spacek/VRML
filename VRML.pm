@@ -134,8 +134,8 @@ contains the color names and conversion functions.
 
 =back
 
-The VRML methods are at present identically in the modules VRML::VRML1.pm and
-VRML::VRML2.pm implemented. The basic methods like C<new>, C<print>
+The VRML methods are at present identically in the modules VRML::VRML1 and
+VRML::VRML2 implemented. The basic methods like C<new>, C<print>
 or C<save> are in the module VRML::Base described.
 
 =head1 DESCRIPTION

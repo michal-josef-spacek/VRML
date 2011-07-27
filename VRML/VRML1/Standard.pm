@@ -28,7 +28,7 @@ $VERSION = "1.07";
 
 =head1 NAME
 
-VRML::VRML1::Standard.pm - implements the VRML 1.x standard nodes
+VRML::VRML1::Standard - implements the VRML 1.x standard nodes
 
 =head1 SYNOPSIS
 

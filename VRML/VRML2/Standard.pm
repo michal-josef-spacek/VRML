@@ -28,7 +28,7 @@ $VERSION = "1.07";
 
 =head1 NAME
 
-VRML::VRML2::Standard.pm - implements VRML 2.0/97 standard nodes
+VRML::VRML2::Standard - implements VRML 2.0/97 standard nodes
 
 =head1 SYNOPSIS
 
@@ -1817,7 +1817,7 @@ L<http://www.gfz-potsdam.de/~palm/vrmlperl/> for a description of F<VRML-modules
 
 =head1 BUGS
 
-Compatibility with VRML1.pm is only given if you use C<IndexedFaceSet> and C<IndexedLineSet>
+Compatibility with VRML1 is only given if you use C<IndexedFaceSet> and C<IndexedLineSet>
 with references
 
 =head1 AUTHOR

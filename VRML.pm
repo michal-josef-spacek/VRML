@@ -86,33 +86,33 @@ briefly.
 
 =over 4
 
-=item VRML::Base
+=item L<VRML::Base>
 
 contains base functionality such as a producing, an outputting and saving. It
 represents the base class for all other modules
 
-=item VRML::VRML1
+=item L<VRML::VRML1>
 
 combines several VRML 1.0 nodes into complex methods - e.g. geometric shapes
 inclusive there material. This module accepts angle data in degrees and as
 material color names. The methods have the same names as in the VRML
 specification (if meaningfully), are however in lower case.
 
-=item VRML::VRML1::Standard
+=item L<VRML::VRML1::Standard>
 
 implemented only the VRML 1.0 nodes. All method names are identical (in the
 way of writing) with those of the VRML specification. The parameters are
 arranged after the frequency of their use (subjective estimate). This module
 is possibly omitted in the next version. The production of the VRML nodes
-takes over then VRML::Base.
+takes over then L<VRML::Base>.
 
-=item VRML::VRML2
+=item L<VRML::VRML2>
 
 combines several VRML 2.0 nodes into complex methods - e.g. geometric shapes
 inclusive there material. This module accepts angle data in degrees and as
 material color names. The methods have the same names as in the VRML
 specification (if meaningfully), are however in lower case. The names are also
-as far as possible identical to those of the module VRML::VRML1. Thus the
+as far as possible identical to those of the module L<VRML::VRML1>. Thus the
 user between the VRML versions which can be produced can switch.
 
 Contains for example $in{VRML} '1' or '2' (e.g. via CGI), then only the following
@@ -120,23 +120,23 @@ line at the start of the Perl script must be inserted.
 
     new VRML($in{'VRML'})
 
-=item VRML::VRML2::Standard
+=item L<VRML::VRML2::Standard>
 
 implemented only the VRML 2.0 nodes. All method names are identical (in the
 way of writing) with those the VRML specification. The parameters are
 arranged after the frequency of their use (subjective estimate) This module
 is possibly omitted in the next version. The production of the VRML nodes
-takes over then VRML::Base.
+takes over then L<VRML::Base>.
 
-=item VRML::Color
+=item L<VRML::Color>
 
 contains the color names and conversion functions.
 
 =back
 
-The VRML methods are at present identically in the modules VRML::VRML1 and
-VRML::VRML2 implemented. The basic methods like C<new>, C<print>
-or C<save> are in the module VRML::Base described.
+The VRML methods are at present identically in the modules L<VRML::VRML1> and
+L<VRML::VRML2> implemented. The basic methods like C<new>, C<print>
+or C<save> are in the module L<VRML::Base> described.
 
 =head1 DESCRIPTION
 
@@ -639,7 +639,7 @@ or reduced to 50%
         '808080', '128 128 0', 'yellow%50' or 'yellow_50'
 
 
-For a list of I<X11 color names> take a look at VRML::Color
+For a list of I<X11 color names> take a look at L<VRML::Color>
 
 =back
 

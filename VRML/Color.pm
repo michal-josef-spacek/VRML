@@ -229,7 +229,7 @@ __END__
 
 =head1 NAME
 
-Color - color functions and X11 color names
+VRML::Color - color functions and X11 color names
 
 =head1 SYNOPSIS
 

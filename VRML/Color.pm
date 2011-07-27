@@ -408,12 +408,12 @@ This module will set 'green' to '0 1 0' instead of '0 0.5 0'.
 
 =head1 SEE ALSO
 
-http://www.gfz-potsdam.de/~palm/vrmlperl/ for a description of F<VRML-modules> and how to obtain it.
+L<http://www.gfz-potsdam.de/~palm/vrmlperl/> for a description of F<VRML-modules> and how to obtain it.
 
 =head1 AUTHOR
 
-Hartmut Palm F<E<lt>palm@gfz-potsdam.deE<gt>>
+Hartmut Palm L<mailto:palm@gfz-potsdam.de>
 
-Homepage http://www.gfz-potsdam.de/~palm/
+Homepage L<http://www.gfz-potsdam.de/~palm/>
 
 =cut

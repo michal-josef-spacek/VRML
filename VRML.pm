@@ -808,18 +808,18 @@ F<visibitysensor('name',size,center,enabled)>
 
 =head1 SEE ALSO
 
-VRML::VRML2
+L<VRML::VRML2>
 
-VRML::VRML2::Standard
+L<VRML::VRML2::Standard>
 
-VRML::Base
+L<VRML::Base>
 
-http://www.gfz-potsdam.de/~palm/vrmlperl/ for a description of F<VRML-modules> and how to obtain it.
+L<http://www.gfz-potsdam.de/~palm/vrmlperl/> for a description of F<VRML-modules> and how to obtain it.
 
 =head1 AUTHOR
 
-Hartmut Palm F<E<lt>palm@gfz-potsdam.deE<gt>>
+Hartmut Palm L<mailto:palm@gfz-potsdam.de>
 
-Homepage http://www.gfz-potsdam.de/~palm/
+Homepage L<http://www.gfz-potsdam.de/~palm/>
 
 =cut

@@ -479,7 +479,7 @@ C<_format>
 
 =head1 AUTHOR
 
-Hartmut Palm F<E<lt>palm@gfz-potsdam.deE<gt>>
+Hartmut Palm L<mailto:palm@gfz-potsdam.de>
 
 =cut
 

@@ -1002,24 +1002,24 @@ VRML::VRML2 - VRML methods with the VRML 2.0/97 standard
 
 =head1 DESCRIPTION
 
-The methods are identically implemented in VRML::VRML1 and VRML::VRML2. They
-described in modul VRML.
+The methods are identically implemented in L<VRML::VRML1> and L<VRML::VRML2>. They
+described in modul L<VRML>.
 
 =head1 SEE ALSO
 
-VRML
+L<VRML>
 
-VRML::Base
+L<VRML::Base>
 
-VRML::Color
+L<VRML::Color>
 
-http://www.gfz-potsdam.de/~palm/vrmlperl/ for a description of
+L<http://www.gfz-potsdam.de/~palm/vrmlperl/> for a description of
 F<VRML-modules> and how to obtain it.
 
 =head1 AUTHOR
 
-Hartmut Palm F<E<lt>palm@gfz-potsdam.deE<gt>>
+Hartmut Palm L<palm@gfz-potsdam.de>
 
-Homepage http://www.gfz-potsdam.de/~palm/
+Homepage L<http://www.gfz-potsdam.de/~palm/>
 
 =cut
